@@ -191,6 +191,6 @@ cam.release()
 
 If you want to contact me, you can reach me through below handles.
 
-<a href="https://twitter.com/prrthamm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25">@prrthamm</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/pratham-bhatnagar/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Pratham Bhatnagar</img></a>
+<a href=""><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/marker-g.png" alt="marker-g">@Ganesh</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ganesh-shit-957246243/recent-activity/all/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Ganesh Shit</img></a>
 
 </div>
